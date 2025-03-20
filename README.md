@@ -101,6 +101,4 @@ cd Intelligent-Health-LLM
 
 ---
 
-Feel free to modify and expand upon this **README.md** file to include more details specific to your project! 🚀
-
 
