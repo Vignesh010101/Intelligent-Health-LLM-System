@@ -78,13 +78,13 @@ cd Intelligent-Health-LLM
 ---
 
 ## Fine-tuned Models 
-[LLaMA 3.2 11B Vision Instruct Finetuned (GGUF)](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-GGUF)
-[LLaMA 3.2 11B Vision Instruct Finetuned](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-finetuned)
-[Meta-Llama-3.1-8B-finetuned](https://huggingface.co/Sci-fi-vy/Meta-Llama-3.1-8B-finetuned)
-[gemma-2-9b-it Finetuned (GGUF)](https://huggingface.co/Sci-fi-vy/gemma-2-9b-it-GGUF)
-[gemma-2-9b-it-finetuned](https://huggingface.co/Sci-fi-vy/gemma-2-9b-it-finetuned)
-[Meditron-7b-finetuned](https://huggingface.co/Sci-fi-vy/Meditron-7b-finetuned)
-[Mistral-7B-Instruct-v0.3-finetuned](https://huggingface.co/Sci-fi-vy/Mistral-7B-Instruct-v0.3-finetuned)
+- [LLaMA 3.2 11B Vision Instruct Finetuned (GGUF)](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-GGUF)
+- [LLaMA 3.2 11B Vision Instruct Finetuned](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-finetuned)
+- [Meta-Llama-3.1-8B-finetuned](https://huggingface.co/Sci-fi-vy/Meta-Llama-3.1-8B-finetuned)
+- [gemma-2-9b-it Finetuned (GGUF)](https://huggingface.co/Sci-fi-vy/gemma-2-9b-it-GGUF)
+- [gemma-2-9b-it-finetuned](https://huggingface.co/Sci-fi-vy/gemma-2-9b-it-finetuned)
+- [Meditron-7b-finetuned](https://huggingface.co/Sci-fi-vy/Meditron-7b-finetuned)
+- [Mistral-7B-Instruct-v0.3-finetuned](https://huggingface.co/Sci-fi-vy/Mistral-7B-Instruct-v0.3-finetuned)
 
 ## Future Enhancements
 - **More Models getting Fine-tuned**
