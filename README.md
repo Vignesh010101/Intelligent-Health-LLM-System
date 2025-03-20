@@ -36,7 +36,7 @@ The **Intelligent Health LLM System** leverages state-of-the-art **Large Languag
 - **Personalized Assessments**: Adapts based on patient history and health records.
 - **Fine-Tuned Medical LLMs**: Optimized models for pharmaceutical and clinical tasks.
 - **High Accuracy (95.7%)**: Outperforms existing AI-driven medical models.
-- **Multi-Model Integration**: Uses Evallms for evaluation and scoring.
+- **Multi-Model Integration**: Uses Evallms, and other top current LLM's for evaluation and scoring.
 
 ---
 
