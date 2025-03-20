@@ -50,7 +50,7 @@ The **Intelligent Health LLM System** leverages state-of-the-art **Large Languag
 ---
 
 ## System Architecture
-*(Add a system diagram or flowchart if required)*
+<!-- Add a system diagram or flowchart if required -->
 
 ---
 
@@ -73,7 +73,7 @@ cd Intelligent-Health-LLM
 - **Performance Gain over other existing top LLM models**: +18.57%
 - **Response Time Optimization**: Efficient real-time response with Meditron, LLaMA 3.2 Vision, Gemma 2, Mistral and even GPT models.
 
-*(Include graphs or evaluation metrics if required)*
+<!-- Include graphs or evaluation metrics if required) -->
 
 ---
 
