@@ -64,6 +64,17 @@ This intelligent Health LLM System bridges the gap between AI-driven healthcare 
 
 ---
 
+## Datasets Used
+- [**A to Z Medicines**](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india)
+- [**250k Medicines Usage, Side Effects and Substitutes**](https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes)
+- [**MIMIC-IV**](https://github.com/MIT-LCP/mimic-code/tree/main/mimic-iv)
+- [**MIMIC-IV-ED**](https://github.com/MIT-LCP/mimic-code/tree/main/mimic-iv-ed)
+- [**MIMIC-IV-on-FHIR**](https://physionet.org/content/mimic-iv-ext-cdm/1.1/)
+- [**MIMIC-IV-Ext-BHC**](https://physionet.org/content/labelled-notes-hospital-course/1.1.0/)
+- [**MIMIC-CXR**](https://opendatalab.com/OpenDataLab/MIMIC-CXR)
+
+---
+
 ## System Architecture
 <!-- Add a system diagram or flowchart if required -->
 
