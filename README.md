@@ -111,7 +111,7 @@ cd Intelligent-Health-LLM
 ---
 
 
-## Fine-tuned Models (Uploaded on HuggingFace)
+## Fine-tuned Models
 - [LLaMA 3.2 11B Vision Instruct Finetuned (GGUF)](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-GGUF)
 - [LLaMA 3.2 11B Vision Instruct Finetuned](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-finetuned)
 - [Meta-Llama-3.1-8B-finetuned](https://huggingface.co/Sci-fi-vy/Meta-Llama-3.1-8B-finetuned)
