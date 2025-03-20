@@ -18,7 +18,7 @@ Integrating online pre-trained models helps the system grow and expand alongside
 - [Installation](#installation)
 - [Usage](#usage)
 - [Evaluation & Performance](#evaluation--performance)
-- [Fine-tuned Models](#fine-tuned-models-(uploaded-on-huggingface))
+- [Fine-tuned Models](#fine-tuned-models)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
