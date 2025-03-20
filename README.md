@@ -79,6 +79,9 @@ cd Intelligent-Health-LLM
 
 ---
 
+## Fine-tuned Models 
+[LLaMA 3.2 11B Vision Instruct Finetuned (GGUF) ](https://huggingface.co/Sci-fi-vy/Llama-3.2-11B-Vision-Instruct-GGUF)
+
 ## Future Enhancements
 - **Mobile App Integration**
 - **Expanded Drug Interaction Database**
