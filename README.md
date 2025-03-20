@@ -97,7 +97,7 @@ cd Intelligent-Health-LLM
 ---
 
 ## License
-*(Specify the license details here, e.g., MIT License, Apache License, etc.)*
+**(Apache License)**
 
 ---
 
