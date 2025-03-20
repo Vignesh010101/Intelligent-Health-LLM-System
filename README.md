@@ -87,7 +87,7 @@ cd Intelligent-Health-LLM
 - [Mistral-7B-Instruct-v0.3-finetuned](https://huggingface.co/Sci-fi-vy/Mistral-7B-Instruct-v0.3-finetuned)
 
 ## Future Enhancements
-- **More Models getting Fine-tuned**
+- **More Models getting Fine-tuned on Medical Data**
 - **Mobile App Integration (Coming-soon)**
 - **Expanded Drug Interaction Database**
 - **Enhanced Patient Data Privacy Mechanisms**
