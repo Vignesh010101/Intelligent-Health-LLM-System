@@ -76,7 +76,10 @@ This intelligent Health LLM System bridges the gap between AI-driven healthcare 
 ---
 
 ## System Architecture
-<!-- Add a system diagram or flowchart if required -->
+![IMG_0465](https://github.com/user-attachments/assets/a09b61dd-fe2a-45d0-82ed-5a2b910f41d5)
+
+![IMG_0466](https://github.com/user-attachments/assets/e902c896-51ee-4b73-a7a9-1c90e713c681)
+
 
 ---
 
