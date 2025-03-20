@@ -125,7 +125,7 @@ Run the [**Model Inference**](https://github.com/Vignesh010101/Intelligent-Healt
 ---
 
 ## License
-**(Apache License)**
+**Apache License**
 
 ---
 
