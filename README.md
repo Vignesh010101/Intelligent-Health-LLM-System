@@ -83,18 +83,20 @@ This intelligent Health LLM System bridges the gap between AI-driven healthcare 
 
 ---
 
+
 ## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/Vignesh010101/Intelligent-Health-LLM.git
 cd Intelligent-Health-LLM
 ```
-Run the [**Model Inference**](https://github.com/Vignesh010101/Intelligent-Health-LLM-System/blob/main/Direct_My_HF_Model_infrncs.ipynb) file to infer the **Intelligent Health LLM System** directly from my fine-tuned model which are uploaded on HuggingFace platform.
 
 ---
 
 ## Usage
-*(Provide detailed instructions on how to use the system, run inference, or interact with the models)*
+- Run the [**Model Inference**](https://github.com/Vignesh010101/Intelligent-Health-LLM-System/blob/main/Direct_My_HF_Model_infrncs.ipynb) file to infer the **Intelligent Health LLM System** directly from my fine-tuned model which are uploaded on HuggingFace platform.
+- Run the [**MultiModal-Input-Output**](https://github.com/Vignesh010101/Intelligent-Health-LLM-System/blob/main/Multi_Modal_input_checking_by_Vignesh1.ipynb) file to directly ask queries and you can also upload images & documents and get the responses.
+
 
 ---
 
