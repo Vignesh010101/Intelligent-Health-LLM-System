@@ -47,7 +47,7 @@ The **Intelligent Health LLM System** leverages state-of-the-art **Large Languag
 - **Meditron-7B** (highest accuracy model for medical NLP tasks)
 - **Mistral** (for efficient real-time responses)
 - **OpenAI Whisper** (for real-time voice text conversion)
-- **Med-PaLM** (benchmark for performance comparison)
+- **EvalLM & GPT-4o** (benchmark for performance comparison and accuracy)
 
 ---
 
