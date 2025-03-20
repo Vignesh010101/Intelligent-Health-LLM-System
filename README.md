@@ -18,6 +18,7 @@ Integrating online pre-trained models helps the system grow and expand alongside
 - [Installation](#installation)
 - [Usage](#usage)
 - [Evaluation & Performance](#evaluation--performance)
+- [Fine-tuned Models](#fine-tuned-models)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
@@ -117,6 +118,10 @@ cd Intelligent-Health-LLM
 - [gemma-2-9b-it-finetuned](https://huggingface.co/Sci-fi-vy/gemma-2-9b-it-finetuned)
 - [Meditron-7b-finetuned](https://huggingface.co/Sci-fi-vy/Meditron-7b-finetuned)
 - [Mistral-7B-Instruct-v0.3-finetuned](https://huggingface.co/Sci-fi-vy/Mistral-7B-Instruct-v0.3-finetuned)
+
+
+---
+
 
 ## Future Enhancements
 - **More Models getting Fine-tuned on Medical Data**
