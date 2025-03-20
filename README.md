@@ -24,7 +24,22 @@ Integrating online pre-trained models helps the system grow and expand alongside
 ---
 
 ## Introduction
-The **Intelligent Health LLM System** leverages state-of-the-art **Large Language Models (LLMs)** to provide **personalized medication guidance and support**. By integrating **text, PDFs, scans, and voice-based inputs**, the system ensures a holistic approach to **medication safety, drug interaction analysis, and personalized healthcare insights**.
+
+The rapid increase in polypharmacy highlights the need for intelligent tools to safely manage multiple medications, especially for chronic patients who face an increased risk of drug interactions. Patients often receive prescriptions from different doctors, leading to confusion, non-compliance, and potential medication errors. The complexities of drug interactions, varied medication schedules, and lack of knowledge about prescription components contribute to these challenges.
+
+Traditionally, healthcare technology focused on digitizing medical records and improving diagnostic accuracy. Electronic Health Records (EHRs) revolutionized patient data management, while advancements in diagnostic imaging, such as MRI and CT scans, enhanced disease detection. However, many existing healthcare platforms provide only general information and fail to offer personalized, real-time advice, particularly for managing complex medication regimens.
+
+In recent years, Artificial Intelligence (AI) and Machine Learning (ML) have transformed healthcare. AI-powered platforms like Med-PaLM and ChatGPT APIs have improved patient query responses and medical knowledge distribution. However, these systems often lack personalization, real-time adaptability, and multimodal input capabilities, limiting their effectiveness in intricate patient scenarios.
+
+Our approach aims to deliver personalized health advice while minimizing medication risks. By leveraging multiple Large Language Models (LLMs), including ChatGPT-3, ChatGPT-3.5 Turbo, Gemma-2-9B, LLaMA-3.1-8B, LLaMA-3.2-11B-Vision, Meditron-7B, and Mistral-7B, we enable deep learning-based interpretation of multimodal inputs and generate human-like responses. The system processes vast amounts of medical data, extracts contextual insights, and delivers highly accurate, personalized healthcare recommendations.
+
+Key Features:
+- **Multimodal Input Support**: Accepts text, PDFs, scanned documents, and voice inputs for comprehensive healthcare guidance.
+- **Fine-Tuned Medical LLMs**: Uses advanced language models trained on medical datasets to detect medication interactions and provide precise recommendations.
+- **Real-Time Adaptability**: Continuously updates with the latest medical guidelines and user data to ensure accurate, context-aware healthcare assistance.
+
+This intelligent Health LLM System bridges the gap between AI-driven healthcare solutions and real-world patient needs. It enhances accessibility, ensures patient safety, and delivers trusted medical insights, empowering individuals to manage their health more effectively.
+
 
 ---
 
