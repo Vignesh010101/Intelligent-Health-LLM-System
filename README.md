@@ -104,7 +104,7 @@ cd Intelligent-Health-LLM
 ## Evaluation & Performance
 - **Fine-Tuned Model Accuracy**: 95.7%
 - **Performance Gain over other existing top LLM models**: +18.57%
-- **Response Time Optimization**: Efficient real-time response with Meditron, LLaMA 3.2 Vision, Gemma 2, Mistral and even GPT models.
+- **Response Time Optimization**: Efficient real-time response with Meditron, LLaMA 3.2 Vision, Mistral and even GPT models.
 
 <!-- Include graphs or evaluation metrics if required) -->
 
