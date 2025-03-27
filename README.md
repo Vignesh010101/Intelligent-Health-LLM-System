@@ -131,7 +131,7 @@ cd Intelligent-Health-LLM
 ---
 
 ## License
-**Apache License**
+This project is licensed under the [**Apache License**](./LICENSE)
 
 ---
 
