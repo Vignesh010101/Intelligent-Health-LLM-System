@@ -1,4 +1,4 @@
-# An Intelligent Health LLM System for Personalized Medication Guidance and Support
+![IMG_0472](https://github.com/user-attachments/assets/909c0392-d45f-4fdf-a990-696ab007606b)# An Intelligent Health LLM System for Personalized Medication Guidance and Support
 
 ## Abstract
 
@@ -77,7 +77,7 @@ This intelligent Health LLM System bridges the gap between AI-driven healthcare 
 ---
 
 ## System Architecture
-![IMG_0465](https://github.com/user-attachments/assets/a09b61dd-fe2a-45d0-82ed-5a2b910f41d5)
+![IMG_0472](https://github.com/user-attachments/assets/a3f78467-d96b-4264-b99a-e73201d21681)
 
 ![IMG_0466](https://github.com/user-attachments/assets/e902c896-51ee-4b73-a7a9-1c90e713c681)
 
