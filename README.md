@@ -60,7 +60,7 @@ This intelligent Health LLM System bridges the gap between AI-driven healthcare 
 - **LLaMA 3.2 11B Vision** (for image-based diagnosis)
 - **Meditron-7B** (highest accuracy model for medical NLP tasks)
 - **Mistral** (for efficient real-time responses)
-- **OpenAI Whisper** (for real-time voice text conversion)
+- **OpenAI Whisper** (for real-time voice to text conversion)
 - **EvalLM & GPT-4o** (benchmark for performance comparison and accuracy)
 
 ---
